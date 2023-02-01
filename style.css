@@ -16,6 +16,7 @@ li{
     display: none;
 }
 .logo1{
+    width:70px;
     display: inline;
     font-size: 25px;
     font-family: Marker Felt, fantasy;
@@ -291,9 +292,9 @@ a{
 }
 @media  screen and (max-width:440px) {
     .Quote {
-        width: 60%;
+        width: 100%;
         margin-top: 60%;
-        margin-left: 25%;
+        margin-left: 0;
     }
 
     .BlankBox {
